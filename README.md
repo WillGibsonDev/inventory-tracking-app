@@ -1,9 +1,22 @@
 # inventory-tracking-app
-A simply inventory tracking application, created as my senior development project.
 
-NOTE: Materials will need to be created first for the app to function in it's current state.
+This is a simple, generic, inventory tracking app designed for the iPad that can be used to create “Products” using “Materials” and handle how much of each are available at any given time. It utilizes SwiftData to retain data through the app being opened and closed. 
 
-Usage:
-On the "Materials" page, you will need to add all required materials for any product you would like to track.  To add a material, you will need to name it and assign a starting quantity. 
 
-On the "Products" page, create a product, then add in each required material and it's quantity used to create said product. 
+Created over the course of a few hours, the project is fairly simple, but I am continuing to add more work. 
+## Features to be added:
+- [ ] Notifications for when materials are getting low
+- [ ] Expanded ability to customize materials
+	- [ ] Different units of measurement (with conversions?)
+	- [ ] Ability to add a link to buy more of that material at
+	- [ ] Cost of material per unit
+	- [ ] Use images instead of random colors for the blocks
+- [ ] Expanded ability to customize products
+	- [ ] Use images instead of random colors for the blocks
+	- [ ] Cost to create product (based on cost of materials)
+	- [ ] Include time and labor in cost?
+- [ ] iPhone layout
+- [ ] Reporting tools?
+- [ ] Widgets?
+- [ ] Sync to a webstore to automate tracking?
+
